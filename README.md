@@ -4,7 +4,7 @@ A simple UITextView that allows Placeholder text.
 
 ## Example
 
-![Screenshot](http://github.com/mps/MPSPlaceholderTextView/master/images/example.png)
+![Screenshot](http://github.com/mps/MPSPlaceholderTextView/blob/master/images/example.png)
 
 ## Usage
 
