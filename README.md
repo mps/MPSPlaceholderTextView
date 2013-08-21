@@ -49,6 +49,7 @@ I have improved this idea over time but I first stumbled across a similar implem
 * [@strickland](https://twitter.com/strickland) on Twitter
 * [@mps](https://github.com/mps) on Github
 * <a href="mailTo:matthew@idlefusion.com">matthew@idlefusion.com</a>
+* [http://mstrick.com](http://mstrick.com) My Blog
 
 ## License
 
